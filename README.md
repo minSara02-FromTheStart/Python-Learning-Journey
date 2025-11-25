@@ -6,12 +6,12 @@ Hi! I'm learning Python step by step.
 🎯 Goal: To learn Python through daily practice and projects.
 
 ## 📌 Topics Covered
-- Day 1: Variables, Print, Input
-- Day 2: Conditions & Loops
-- Day 3: Functions
-- Day 4: Lists, Tuples
-- Day 5: Dictionaries
-- Day 6: File Handling
-- Day 7+: Mini Projects
+- TASK 1: Variables, Print, Input
+- TASK 2: Conditions & Loops
+- TASK 3: Functions
+- TASK 4: Lists, Tuples
+- TASK 5: Dictionaries
+- TASK 6: File Handling
+- TASK 7: Mini Projects
 
 Stay tuned to watch my progress! 🚀
