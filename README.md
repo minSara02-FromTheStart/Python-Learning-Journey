@@ -1,11 +1,11 @@
-# Python Learning Journey 🐍
+# Python Learning Journey 
 
 Hi! I'm learning Python step by step.
 
-📅 Starting Date: 25/11/2025
-🎯 Goal: To learn Python through daily practice and projects.
+ Starting Date: 25/11/2025
+ Goal: To learn Python through daily practice and projects.
 
-## 📌 Topics Covered
+## Topics
 - TASK 1: Variables, Print, Input
 - TASK 2: Conditions & Loops
 - TASK 3: Functions
@@ -14,4 +14,4 @@ Hi! I'm learning Python step by step.
 - TASK 6: File Handling
 - TASK 7: Mini Projects
 
-Stay tuned to watch my progress! 🚀
+Stay tuned to watch my progress! 
