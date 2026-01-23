@@ -2,7 +2,7 @@
 
 Hi! I'm learning Python step by step.
 
- Starting Date: 25/11/2025
+ Starting Date: 25/01/2026
  Goal: To learn Python through daily practice and projects.
 
 ## Topics
