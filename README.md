@@ -12,6 +12,5 @@ Hi! I'm learning Python step by step.
 - TASK 4: Lists, Tuples
 - TASK 5: Dictionaries
 - TASK 6: File Handling
-- TASK 7: Mini Projects
 
 Stay tuned to watch my progress! 
